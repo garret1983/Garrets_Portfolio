@@ -47,5 +47,9 @@ body {
   color: #fff;
   padding: 5px;
   border-radius: 5px;
-  opacity: 0.8;
+}
+
+#main-footer {
+  color: #fff;
+  background: #008ed6;
 }
